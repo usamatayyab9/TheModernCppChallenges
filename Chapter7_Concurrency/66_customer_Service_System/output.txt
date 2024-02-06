@@ -1,0 +1,81 @@
+Desk 1 starting
+Desk 3 starting
+Desk 2 starting
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+New Customer 
+Desk 1 handling Customer 0
+Desk 2 handling Customer 2
+Desk 3 handling Customer 1
+Desk 3 done with Customer 1
+Desk 1 done with Customer 0
+Desk 2 done with Customer 2
+Desk 3 handling Customer 3
+Desk 2 handling Customer 4
+Desk 1 handling Customer 5
+Desk 3 done with Customer 3
+Desk 1 done with Customer 5
+Desk 2 done with Customer 4
+Desk 1 handling Customer 6
+Desk 3 handling Customer 7
+Desk 2 handling Customer 8
+Desk 3 done with Customer 7
+Desk 2 done with Customer 8
+Desk 1 done with Customer 6
+Desk 2 handling Customer 9
+Desk 3 handling Customer 10
+Desk 1 handling Customer 11
+Desk 3 done with Customer 10
+Desk 2 done with Customer 9
+Desk 1 done with Customer 11
+Desk 3 handling Customer 12
+Desk 1 handling Customer 13
+Desk 2 handling Customer 14
+Desk 3 done with Customer 12
+Desk 2 done with Customer 14
+Desk 1 done with Customer 13
+Desk 3 handling Customer 15
+Desk 2 handling Customer 16
+Desk 1 handling Customer 17
+Desk 3 done with Customer 15
+Desk 1 done with Customer 17
+Desk 2 done with Customer 16
+Desk 3 handling Customer 18
+Desk 1 handling Customer 19
+Desk 2 handling Customer 20
+Desk 3 done with Customer 18
+Desk 1 done with Customer 19
+Desk 2 done with Customer 20
+Desk 3 handling Customer 21
+Desk 1 handling Customer 22
+Desk 2 handling Customer 23
+Desk 3 done with Customer 21
+Desk 2 done with Customer 23
+Desk 1 done with Customer 22
+Desk 3 handling Customer 24
+Desk 2 Closing
+Desk 1 Closing
+Desk 3 done with Customer 24
+Desk 3 Closing
